@@ -1,4 +1,17 @@
-Command Line Controller on ** STM32F411VE ** - Discovery Board Kit Using CDC (USB Communication Devices Class) & FreeRTOS
+# Command Line Controller on ** STM32F411VE ** - Discovery Board Kit
+
+> Command Line Controller on ** STM32F411VE ** - Discovery Board Kit Using CDC (USB Communication Devices Class) & FreeRTOS
+
+---
+### Table of contents
+
+- [Description](#description)
+- [References](#references)
+- [Author](#author)
+
+---
+
+## Description
 
 About This is a project based on developing a command line controller on STM32F411VE disco - board using FreeRTOS & CDC *COMMUNICATION DEVICE CLASS*. In Total there are 5 tasks
 1) Task1: Create
@@ -7,16 +20,35 @@ About This is a project based on developing a command line controller on STM32F4
 4) Task4: Show Pirority
 5) Task5: Change Pirority
 
-Build with C++ C
+<!-- [Mini App Roadmap](https://docs.google.com/document/d/1TpHGnCcIn6bnD6QrYBVCE3Fy8hYhpX5EnLAdrxudBms/edit?usp=sharing)  -->
 
-Tools STM32Cube IDE STM32F411VE- Discovery Board Kit
+### Languages used
+- C
+- C++
 
-Contributing Fork it !!! Create your feature branch: git checkout -b my_feature Commit your changes: git commit -m "Add feature" Push to the branch: git push origin my_feature Submit a pull request & merge: D
+### Tools & Technologies 
+- Git bash
+- Visual Studio Code
+- STM32Cube IDE 
+- STM32F411VE - Discovery Board Kit
 
-Author HET PATEL
 
-References https://www.st.com/en/development-tools/stm32cubeide.html 
-https://www.st.com/en/evaluation-tools/32f411ediscovery.html
+---
+
+## References
+- W3schools
+- youtube
+- MDN learning
+- https://www.st.com/en/development-tools/stm32cubeide.html
+- https://www.st.com/en/evaluation-tools/32f411ediscovery.html
+
+---
+
+## Author
+
+HET PATEL
 
 
-License MIT
+
+
+
